@@ -1,0 +1,21 @@
+.font {
+  font-family: 'Source Code Pro', ;
+}
+
+.padded {
+  padding: 1em, 1em, 1em, 1em !important; // fix this
+}
+
+.console {
+  background-color: rgba(0, 0, 0, .7);
+  color: green;
+}
+
+.well {
+  border: none !important; // fix this
+}
+
+.bgimg {
+  background-image: url('../img/kali.png');
+  background-size: cover;
+}
